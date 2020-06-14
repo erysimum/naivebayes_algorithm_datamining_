@@ -1,1 +1,1 @@
-# naivebayes_algorithm_datamining_
+# naivebayes_algorithm_datamining_on Mushroom dataset
